@@ -4,6 +4,8 @@
 
 In [Django](https://www.djangoproject.com/), an "app" (short for application) is a self-contained module or component of a web application that encapsulates a specific functionality or set of related features.
 
+<br />
+
 ## [Django App Material](https://appseed.us/product/material-kit/django/)
 
 Open-source Django project crafted on top of Material Kit, an open-source design from Creative-Tim. The product is designed to deliver the best possible user experience with highly customizable feature-rich pages.
