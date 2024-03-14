@@ -27,7 +27,7 @@ Open-source Django project crafted on top of Material Kit, an open-source design
 
 <br />
 
-## [Rocket Django](https://github.com/app-generator/rocket-django)
+## [Rocket Django](https://github.com/app-generator/rocket-django) `TailwindCSS`
 
 This Django Boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
