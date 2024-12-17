@@ -2,7 +2,10 @@
 
 [Django Apps](https://appseed.us/apps/django/) crafted with authentication, database, ORM, modular codebase and deployment scripts - Actively Supported by AppSeed. For newcomers, **Django** is a high-level, open-source web framework written in Python that enables developers to build web applications quickly and with a clean, pragmatic design. 
 
-In [Django](https://www.djangoproject.com/), an "app" (short for application) is a self-contained module or component of a web application that encapsulates a specific functionality or set of related features.
+> 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
+
+![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
+![Django App Generator - Design Database](https://github.com/user-attachments/assets/330c6ba5-6066-46f0-9d0f-c7161410eb5a)
 
 <br />
 
